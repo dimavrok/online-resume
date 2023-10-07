@@ -1,16 +1,16 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Dimitris Mavrokapnidis                   # name
+  title: Research Scientist           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: London, UK # location
+  email: dimitris.mavrokapnidis@gmail.com    # email address
+  phone: +447586545238 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: dimavrok.github.io/about     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
@@ -161,8 +161,8 @@ skill:
     There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
 
   items:
-    - name: Skill A
-      level: 5
+    - name: Programming
+      level: 1
     - name: Skill B
       level: 4
     - name: Skill C
